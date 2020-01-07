@@ -9,7 +9,33 @@
   },
   "footer": {
     "content": "&copy; All rights reserved.",
-    "links": [],
+    "links": [
+      {
+        "text": "Cookies Policies",
+        "url": "/cookies-policy",
+        "new_window": true
+      },
+      {
+        "text": "Copyright",
+        "url": "/copyright",
+        "new_window": true
+      },
+      {
+        "text": "Disclaimer",
+        "url": "/disclaimer",
+        "new_window": true
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "/privacy-policy",
+        "new_window": true
+      },
+      {
+        "text": "Terms & Conidtions",
+        "url": "/terms-conidtions",
+        "new_window": true
+      }
+    ],
     "has_social": true
   }
 }
