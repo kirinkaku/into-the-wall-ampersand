@@ -1,20 +1,17 @@
 ---
-title: About Me
+title: About Us
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: /images/hin-bong-yeung-jf946mh5qra-unsplash.jpg
 menus:
   main:
     title: About
     weight: 2
 template: page
 ---
+# About US
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Welcome to the web site "Into The Wall", your number one source for all things to uncover from places intentionally hidden behind a WALL. We're dedicated to giving you the very best of some amazing stuff you do not know, with a focus on timely, truth and fun.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Founded in 2019, "Into The Wall" has come a long way from its beginnings. When the founders first started out, their passion for "uncover to the world" drove them to do tons of research, to search and mine something still unknown from global citizen. So that Into The Wall can offer you insight / impression on new stuff for your work or just for leisure. We now serve customers all over the world, and are thrilled that we're able to turn our passion into our own website.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
