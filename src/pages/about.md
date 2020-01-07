@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about me and my work
+subtitle: This is a short page about us
 img_path: /images/hin-bong-yeung-jf946mh5qra-unsplash.jpg
 menus:
   main:
