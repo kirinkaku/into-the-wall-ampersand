@@ -1,6 +1,6 @@
 ---
 title:    applications submitted for up to   Singapore digital bank
-date: '2020-01-08T11:34:03.382Z'
+date: '2020-01-08T11:35:40.811Z'
 thumb_img_path: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/07/rk_mas_070120.jpg?itok=VB_pCx8t
 content_img_path: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/07/rk_mas_070120.jpg?itok=VB_pCx8t
 excerpt: >-
