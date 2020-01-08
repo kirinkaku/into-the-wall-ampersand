@@ -276,6 +276,34 @@ models:
         name: menus
         label: Home Menus
         description: Which menus should this page show up in
+  trending:
+    type: page
+    label: Trending
+    template: home
+    file: trending.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: >-
+          The title of the page. If value is not set, the author name will be
+          used.
+        required: true
+      - type: list
+        name: sections
+        label: Sections
+        description: Home page sections
+        items:
+          type: reference
+          labelField: title
+          models:
+            - intro
+      - type: page_menus
+        name: menus
+        label: Home Menus
+        description: Which menus should this page show up in
   contact:
     type: page
     label: Contact
@@ -303,6 +331,29 @@ models:
   page:
     type: page
     label: Page
+    template: page
+    exclude: posts/**
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title.
+      - type: image
+        name: img_path
+        label: Image
+        description: The image shown below the page title and subtitle.
+      - type: page_menus
+        name: menus
+        label: Page Menus
+        description: Which menus should this page show up in
+  page_dev:
+    type: page
+    label: Page Dev
     template: page
     exclude: posts/**
     fields:
