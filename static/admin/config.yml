@@ -405,7 +405,7 @@ collections:
             hint: Page content
   - name: page
     label: Pages
-    folder: src/pages/
+    folder: src/pages
     create: true
     extension: md
     slug: '{{slug}}'
