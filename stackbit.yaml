@@ -124,10 +124,10 @@ sourceMapping:
       file: config.yml
       fieldPath: 'params.footer.links[1].new_window'
 stackbit_banner:
-  show_banner: true
-  name: Ampersand
+  show_banner: false
+  name: IntoTheWall Ampersand Custom Theme
   create_url: 'https://app.stackbit.com/create?theme=ampersand'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-ampersand'
+  github_url: 'https://github.com/kirinkaku/stackbit-theme-ampersand'
 models:
   config:
     type: config
